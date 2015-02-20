@@ -1,4 +1,5 @@
 class Article < ActiveRecord::Base
+#ermermgerd
 #relationships
 belongs_to :category
 
